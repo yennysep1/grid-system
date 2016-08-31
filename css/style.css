@@ -1,0 +1,150 @@
+/* Inserta tu código aqui */
+header{
+	background-color: #333333;
+	
+}
+
+header img{
+	width: 50%;
+	margin: 5% auto;
+}
+
+header nav {
+	text-align: center;
+	margin-top: 4%;
+}
+
+header a {
+	text-decoration: none;
+	color: #A69B9B;
+	font-family: 'Arimo', sans-serif;
+	font-size: 14px;
+	margin: 0 1%;
+}
+
+.episodes p{
+	font-family: 'Arimo', sans-serif;
+    font-size: 15px;
+    font-weight: bold;
+    margin: 2% auto;
+}
+
+.episodes{
+	background-color: #eeeeee;
+	width: 100%;
+	padding-bottom: 2%;
+}
+
+.episodes a{
+    font-family: 'Arimo', sans-serif;
+    text-decoration: none;
+    font-size: 11px;
+}
+
+.episodes img {
+	width: 100%;
+}
+
+.destacados a {
+	text-align: center;
+    font-size: 12px;
+}
+
+.principal {
+    width: 112%;
+    margin-top: 4%;
+}
+
+.box {							/** estilos seccion nuestras coders **/
+	position: relative;
+
+}
+
+.principal .box img {
+	margin: 0px 10px;
+	width: 109%;
+}
+
+.box a {
+	position: absolute;
+	right: 20%;
+    bottom: -19%;
+    color: black;
+    text-decoration: none;
+}
+
+.aside{
+	margin-top: 10%;
+}
+
+h5 {
+	font-size: 15px;
+	font-family: 'Arimo', sans-serif;
+}
+
+hr{
+	margin-top: 1%;
+	width: 90%;
+	border-width: 1px;
+	border-style: solid;
+	color: #0C62E3;
+
+}
+
+.enlaces img {
+	width: 5%;
+}
+
+.enlaces {
+	position: relative;
+
+}
+
+.enlaces a {
+	position: absolute;
+	left: 9%;
+    top: 1%;
+    color: #0C62E3;
+}
+
+
+.raya2 hr {
+	margin-top: 2%;
+	width: 90%;
+	border-width: 1px;
+	border-style: solid;
+	color: #0C62E3;
+}
+
+.titulo-dos h5{
+	 margin-top: 7%;
+}
+
+.raya3 hr {
+	margin-top: 9%;
+	width: 90%;
+	border-width: 1px;
+	border-style: solid;
+	color: #0C62E3;
+}
+
+.enlace-grande  {
+margin: 7% 5%;
+
+}
+
+.aside a{
+	text-decoration: none;
+}
+
+footer {
+	width: 100%
+	background-color: #333333; 
+}
+
+
+
+
+
+
+
